@@ -2,11 +2,6 @@ import React,{Component} from 'react';
 
 
 
-
-
-
-
-
 class ErrorComponent extends Component{
 
     render(){
