@@ -1,0 +1,4 @@
+PS C:\Users\NyN\Desktop\Spring Jars-udemy\todos> git remote add origin https://github.com/nyn0391/ToDo-React.git
+Error :fatal: remote origin already exists.
+PS C:\Users\NyN\Desktop\Spring Jars-udemy\todos> git remote rm origin
+PS C:\Users\NyN\Desktop\Spring Jars-udemy\todos> git remote add origin https://github.com/nyn0391/ToDo-React.gitPS C:\Users\NyN\Desktop\Spring Jars-udemy\todos>
